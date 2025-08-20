@@ -1,2 +1,3 @@
 # attestato_openscience
-<a href="pdfs/Attestato open science ARCA.pdf">attestato</a>
+
+[Attestato pdf](Attestato open science ARCA.pdf)
