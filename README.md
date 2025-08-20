@@ -1,3 +1,3 @@
 # attestato_openscience
 
-![Book logo](/attestato png.png)
+<a href="https://martapretto.github.io/attestato_openscience/openscience_arca.pdf" target="_blank">PDF.</a>
